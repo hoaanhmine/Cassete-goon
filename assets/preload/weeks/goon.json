@@ -1,0 +1,50 @@
+{
+	"storyName": "Cold Alley (we might be doin some goonin)",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "goon",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Night-Lights",
+			"goon",
+			[
+				195,
+				53,
+				113
+			]
+		],
+		[
+			"Cold-Flow",
+			"goon",
+			[
+				195,
+				53,
+				113
+			]
+		],
+		[
+			"Ground-Zero",
+			"goon",
+			[
+				195,
+				53,
+				113
+			]
+		]
+	],
+	"weekCharacters": [
+		"menugoon",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "p"
+}

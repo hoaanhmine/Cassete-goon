@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cg ICONS.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Símbolo 10000" x="0" y="0" width="98" height="88" frameX="0" frameY="-2" frameWidth="98" frameHeight="90"/>
+	<SubTexture name="Símbolo 10001" x="0" y="0" width="98" height="88" frameX="0" frameY="-2" frameWidth="98" frameHeight="90"/>
+	<SubTexture name="Símbolo 10002" x="0" y="0" width="98" height="88" frameX="0" frameY="-2" frameWidth="98" frameHeight="90"/>
+	<SubTexture name="Símbolo 10003" x="0" y="0" width="98" height="88" frameX="0" frameY="-2" frameWidth="98" frameHeight="90"/>
+	<SubTexture name="Símbolo 10004" x="98" y="0" width="98" height="90"/>
+	<SubTexture name="Símbolo 10005" x="98" y="0" width="98" height="90"/>
+	<SubTexture name="Símbolo 10006" x="98" y="0" width="98" height="90"/>
+	<SubTexture name="Símbolo 10007" x="98" y="0" width="98" height="90"/>
+	<SubTexture name="Símbolo 10008" x="196" y="0" width="98" height="88" frameX="0" frameY="-2" frameWidth="98" frameHeight="90"/>
+	<SubTexture name="Símbolo 10009" x="196" y="0" width="98" height="88" frameX="0" frameY="-2" frameWidth="98" frameHeight="90"/>
+	<SubTexture name="Símbolo 10010" x="196" y="0" width="98" height="88" frameX="0" frameY="-2" frameWidth="98" frameHeight="90"/>
+	<SubTexture name="Símbolo 10011" x="196" y="0" width="98" height="88" frameX="0" frameY="-2" frameWidth="98" frameHeight="90"/>
+	<SubTexture name="Símbolo 20000" x="294" y="0" width="102" height="133" frameX="0" frameY="-2" frameWidth="102" frameHeight="135"/>
+	<SubTexture name="Símbolo 20001" x="294" y="0" width="102" height="133" frameX="0" frameY="-2" frameWidth="102" frameHeight="135"/>
+	<SubTexture name="Símbolo 20002" x="294" y="0" width="102" height="133" frameX="0" frameY="-2" frameWidth="102" frameHeight="135"/>
+	<SubTexture name="Símbolo 20003" x="294" y="0" width="102" height="133" frameX="0" frameY="-2" frameWidth="102" frameHeight="135"/>
+	<SubTexture name="Símbolo 20004" x="396" y="0" width="102" height="135"/>
+	<SubTexture name="Símbolo 20005" x="396" y="0" width="102" height="135"/>
+	<SubTexture name="Símbolo 20006" x="396" y="0" width="102" height="135"/>
+	<SubTexture name="Símbolo 20007" x="396" y="0" width="102" height="135"/>
+	<SubTexture name="Símbolo 20008" x="0" y="135" width="102" height="133" frameX="0" frameY="-2" frameWidth="102" frameHeight="135"/>
+	<SubTexture name="Símbolo 20009" x="0" y="135" width="102" height="133" frameX="0" frameY="-2" frameWidth="102" frameHeight="135"/>
+	<SubTexture name="Símbolo 20010" x="0" y="135" width="102" height="133" frameX="0" frameY="-2" frameWidth="102" frameHeight="135"/>
+	<SubTexture name="Símbolo 20011" x="0" y="135" width="102" height="133" frameX="0" frameY="-2" frameWidth="102" frameHeight="135"/>
+</TextureAtlas>

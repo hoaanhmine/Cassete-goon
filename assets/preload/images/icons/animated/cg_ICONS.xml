@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cg ICONS.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Normal0000" x="0" y="0" width="98" height="88" frameX="0" frameY="-2" frameWidth="98" frameHeight="90"/>
+	<SubTexture name="Normal0001" x="0" y="0" width="98" height="88" frameX="0" frameY="-2" frameWidth="98" frameHeight="90"/>
+	<SubTexture name="Normal0002" x="0" y="0" width="98" height="88" frameX="0" frameY="-2" frameWidth="98" frameHeight="90"/>
+	<SubTexture name="Normal0003" x="0" y="0" width="98" height="88" frameX="0" frameY="-2" frameWidth="98" frameHeight="90"/>
+	<SubTexture name="Normal0004" x="98" y="0" width="98" height="90"/>
+	<SubTexture name="Normal0005" x="98" y="0" width="98" height="90"/>
+	<SubTexture name="Normal0006" x="98" y="0" width="98" height="90"/>
+	<SubTexture name="Normal0007" x="98" y="0" width="98" height="90"/>
+	<SubTexture name="Normal0008" x="196" y="0" width="98" height="88" frameX="0" frameY="-2" frameWidth="98" frameHeight="90"/>
+	<SubTexture name="Normal0009" x="196" y="0" width="98" height="88" frameX="0" frameY="-2" frameWidth="98" frameHeight="90"/>
+	<SubTexture name="Normal0010" x="196" y="0" width="98" height="88" frameX="0" frameY="-2" frameWidth="98" frameHeight="90"/>
+	<SubTexture name="Normal0011" x="196" y="0" width="98" height="88" frameX="0" frameY="-2" frameWidth="98" frameHeight="90"/>
+	<SubTexture name="Losing0000" x="294" y="0" width="102" height="133" frameX="0" frameY="-2" frameWidth="102" frameHeight="135"/>
+	<SubTexture name="Losing0001" x="294" y="0" width="102" height="133" frameX="0" frameY="-2" frameWidth="102" frameHeight="135"/>
+	<SubTexture name="Losing0002" x="294" y="0" width="102" height="133" frameX="0" frameY="-2" frameWidth="102" frameHeight="135"/>
+	<SubTexture name="Losing0003" x="294" y="0" width="102" height="133" frameX="0" frameY="-2" frameWidth="102" frameHeight="135"/>
+	<SubTexture name="Losing0004" x="396" y="0" width="102" height="135"/>
+	<SubTexture name="Losing0005" x="396" y="0" width="102" height="135"/>
+	<SubTexture name="Losing0006" x="396" y="0" width="102" height="135"/>
+	<SubTexture name="Losing0007" x="396" y="0" width="102" height="135"/>
+	<SubTexture name="Losing0008" x="0" y="135" width="102" height="133" frameX="0" frameY="-2" frameWidth="102" frameHeight="135"/>
+	<SubTexture name="Losing0009" x="0" y="135" width="102" height="133" frameX="0" frameY="-2" frameWidth="102" frameHeight="135"/>
+	<SubTexture name="Losing0010" x="0" y="135" width="102" height="133" frameX="0" frameY="-2" frameWidth="102" frameHeight="135"/>
+	<SubTexture name="Losing0011" x="0" y="135" width="102" height="133" frameX="0" frameY="-2" frameWidth="102" frameHeight="135"/>
+</TextureAtlas>

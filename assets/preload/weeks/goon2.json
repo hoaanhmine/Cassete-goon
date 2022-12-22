@@ -1,0 +1,68 @@
+{
+	"storyName": "Cold Alley (we might be doin some goonin)",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "goon",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"menugoon",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Dying-Lights",
+			"goon",
+			[
+				195,
+				53,
+				113
+			]
+		],
+		[
+			"Ghost",
+			"goon",
+			[
+				195,
+				53,
+				113
+			]
+		],
+		[
+			"Streets",
+			"cass",
+			[
+				235,
+				153,
+				73
+			]
+		],
+		[
+			"Thoughts",
+			"cass",
+			[
+				235,
+				153,
+				73
+			]
+		],
+		[
+			"Night2Lights",
+			"goonmax",
+			[
+				115,
+				213,
+				193
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "p",
+	"hiddenUntilUnlocked": false
+}

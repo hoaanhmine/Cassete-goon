@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "idle",
+	"idle_anim": "idle",
+	"position": [
+		180,
+		410
+	],
+	"scale": 0.3,
+	"image": "goonweekremaa",
+	"flipX": false
+}
